@@ -4,25 +4,40 @@
   <meta charset="UTF-8" />
   <title>404 page</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="" />
-  <!-- need to create the css file and update this line -->
+  <meta name="description" content="404 error page" />
+  <meta name="keywords" content="HTML, CSS, scarecrow, error, 404" />
+  <meta name="author" content="Juan I. Rodríguez (IgVincon)" />
   <link rel="stylesheet" type="text/css" href="style.css" />
-  <!-- need to add the favicon resource and link it properly -->
-  <link rel="icon" href="devchallenges.png">
+  <link rel="stylesheet" 
+  href="https://fonts.googleapis.com/css?family=Space Mono|Inconsolata|Montserrat" />
+  <link rel="icon" href="images/devchallenges.png" />
 </head>
 <body>
   <header>
-    <h1>I have bad news for you</h1>
+    <h1>404 not found</h1>
   </header>
-  <p>The page you are looking for might be removed or is temporarily unavailable</p>
-  <!-- Currently not in use
   <main>
-    <section></section>
-    <section></section>
-    <section></section>
+    <section>
+      <img src="images/scarecrow.png" alt="Scarecrow with 404 numbers" />
+      <h2>I have bad news for you</h2>
+      <p>
+        The page you are looking for might be removed or is temporarily 
+        unavailable
+      </p>
+      <button type="button" onclick="document.location='index.html'">
+        Back to homepage
+      </button>
+    </section>
   </main>
-  -->
-  <!-- the username should be an hyperlink to github, in black, underlined all grayed -->
-  <footer>created by IgVincon - devChallenges.io</footer>
+  <footer>
+    <p class="authorship">
+      created by 
+      <a class="authorship" href="https://github.com/IgVincon/" 
+      title="Go to author's GitHub page">
+        IgVincon
+      </a>
+       - devChallenges.io
+    </p>
+  </footer>
 </body>
 </html>

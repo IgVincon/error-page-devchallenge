@@ -37,14 +37,11 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/IgVincon/error-page-devchallenge/blob/main/images/screenshot-2023-04-24-182717.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This is my solution for the 404 Not Found challenge. You can check the full page [here](https://igvincon.github.io/error-page-devchallenge/). This was a fun and challenging experience, even with some prior programming knoweldge, since it was my first time working on frontend web design. 
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+I had to google my way into learning HTML and CSS coding and naming conventions, responsive web design (flex and grid), webpage layout and even CSS validation. I'm sure there is a lot more to learn and I will keep doing so while advancing with these challenges.
 
 ### Built With
 
@@ -64,10 +61,11 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [HTML and CSS tutorials](https://www.w3schools.com)
-- [CSS tutorials and documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [W3schools HTML and CSS tutorials](https://www.w3schools.com)
+- [Mozzilla CSS tutorials and documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
 ## Contact
 
-- GitHub [@IgVincon](https://{github.com/your-usermame})
-- LinkedIn [@Juan Ignacio Rodríguez Vinçon](https://{linkedin.com/in/jirvincon/?locale=en_US})
+- [Website](https://igvincon.github.io/)
+- GitHub [@IgVincon](https://github.com/IgVincon)
+- LinkedIn [@Juan Ignacio Rodríguez Vinçon](https://linkedin.com/in/jirvincon/?locale=en_US)

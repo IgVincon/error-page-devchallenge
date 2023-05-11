@@ -68,4 +68,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - [Website](https://igvincon.github.io/)
 - GitHub [@IgVincon](https://github.com/IgVincon)
-- LinkedIn [@Juan Ignacio Rodríguez Vinçon](https://linkedin.com/in/jirvincon/?locale=en_US)
+- LinkedIn [@Juan Ignacio Rodríguez Vinçon](https://linkedin.com/in/jirvincon/)
